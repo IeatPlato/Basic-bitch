@@ -1,5 +1,8 @@
 
 import './App.css';
+import './components/Button';
+import './components/Wrapper';
+
 
 function App() {
   return (
@@ -7,6 +10,7 @@ function App() {
       <header className="App-header">
       HIIIII
       </header>
+
     </div>
   );
 }
